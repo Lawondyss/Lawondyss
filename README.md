@@ -1,16 +1,16 @@
-### Hi there 👋
+### Ahoj 👋 jmenuji se Láďa
+#### a náramně se bavím programováním v PHP
+![a náramně se bavím programováním v PHP](banner.png)
 
-<!--
-**Lawondyss/Lawondyss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Většinou pracuji na interních systémech. Pro zábavu si hraju s různými koncepty programování, vytvářím knihovny řešící nějaký (můj) konkrétní problém, nebo prostě jen tak převádím myšlenky do kódu...
 
-Here are some ideas to get you started:
+Takže ano, jsem takovej ten divnej 🕷️ v koutě 😃
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Aktuálně pracuji na B2B e-shopu pro vivantis.cz
+- 🌱 Zrovna poznávám krásy [Svelte](https://svelte.dev/)
+- 📫 Napsat mi můžete na
+  - 📧 e-mail lad.von@gmail.com
+  - 💬 WhatsApp
+
+   ![WhatsApp QR](whatsapp-qr.png)
+
