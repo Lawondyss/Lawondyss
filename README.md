@@ -1,6 +1,6 @@
 ### Ahoj 👋 jmenuji se Láďa
 #### a náramně se bavím programováním v PHP
-![a náramně se bavím programováním v PHP](banner.png)
+![a náramně se bavím programováním v PHP](https://raw.githubusercontent.com/lawondyss/lawondyss/master/banner.png)
 
 Většinou pracuji na interních systémech. Pro zábavu si hraju s různými koncepty programování, vytvářím knihovny řešící nějaký (můj) konkrétní problém, nebo prostě jen tak převádím myšlenky do kódu...
 
@@ -12,5 +12,5 @@ Takže ano, jsem takovej ten divnej 🕷️ v koutě 😃
   - 📧 e-mail lad.von@gmail.com
   - 💬 WhatsApp
 
-   ![WhatsApp QR](whatsapp-qr.png)
+   ![WhatsApp QR](https://raw.githubusercontent.com/lawondyss/lawondyss/master/whatsapp-qr.png)
 
